@@ -1,8 +1,10 @@
 # Woopsie Creations
 
-Welcome to **Woopsie Creations** :D — a passionate indie game and software development studio.
-
 ![ALELOUIAGREEN](https://github.com/user-attachments/assets/f590274c-ba48-4650-9089-f23b0b83d2f4)
+
+**ENGLISH VERSION**
+
+Welcome to **Woopsie Creations** :D — a passionate indie game and software development studio.
 
 ## 🚀 What We Do
 
@@ -22,13 +24,13 @@ At Woopsie Creations, we dive into a wide range of projects with creativity and 
 
 ## 📁 Repositories
 
-Explore our public repositories to see what's brewing — from nostalgic remakes to cutting-edge simulations.
+Explore our public repositories to see what's brewing — from nostalgic remakes to cutting-edge simulators.
 
 > We believe in **learning by doing** and **sharing what we build**. Some projects are prototypes, but all made with care.
 
 ## 🏮 What Are We Currently Doing?
 
-You know more about our current projects, you can take a look at [our Trello](https://trello.com/w/woopsiecreations), each table is dedicated to a project. 
+To know more about our current projects, you can take a look at [our Trello](https://trello.com/w/woopsiecreations), each table is dedicated to a project. 
 
 ## 🤝 Follow Us
 
@@ -41,5 +43,45 @@ And to know more about the co-founders, you can simply check the admin people in
 Feel free to reach out via GitHub or email us at: `contact.woopsiecreations@gmail.com`
 
 ---
+
+**FRENCH VERSION**
+
+Bienvenue sur **Woopsie Creations** :D — un studio de développement logiciel et de jeux-vidéos, par des passionés.
+
+## 🚀 Ce Qu'On Fait
+
+Dans Woopsie Creations, on explore une variété de projets avec créativité et curiosité technique:
+
+- 🕹️ **Remakes Arcade Retro**: Re-créations fun de jeux d'arcades iconiques utilisant du x86 16-bit Assembly sur DOSBox.
+- 🌍 **Simulateurs**: De la simulation de tremblements de terre à de la balistique de tank — on aime élaborer des systèmes complexes et interactifs.
+- 🎲 **Jeux originaux**: Des idées uniques rendues réelles à l'aide d'outils modernes, tout en gardant l'amusement et les challenges d'un gameplay classique.
+- 🧪 **Expériences et démos technologiques**: Explorant le développement bas-niveau, la génération procédurale et d'autres concepts de programmation créatifs.
+
+## 🛠️ Technologies Qu'On Aime
+
+- **x86 16-bit Assembly** (NASM & DOSBox)
+- **C++** (OpenGL)
+- **C#** (OpenTK)
+- **Unity**
+
+## 📁 Répos
+
+Explore nos répos pour voir ce que nous créons - des remakes nostalgiques à des simulateurs de pointe.
+
+> Nous croyons au **apprends en faisant** et **partage ce que nous créons**. Quelques projets sont des prototypes, mais tous on été fait avec amour.
+
+## 🏮 Ce Qu'On Fait Maintenant?
+
+Pour en savoir plus sur nos projets actuels, tu peux jeter un coup d'œil à [notre Trello](https://trello.com/w/woopsiecreations), chaque table est dédié à un projet.
+
+## 🤝 Suis nous!
+
+On adore être en contact avec d'autres créateurs, développeurs et fans de technos retros. Suis notre travail, mets une étoile à nos projets ou n'hésite pas si tu voudrais contribuer!
+
+Et pour en savoir plus sur les co-fondateurs, tu peux tout simplement aller voir les profils des admins de l'organisation :)
+
+## 📫 Contact
+
+Sois libre de nous écrire via GitHub ou envoie nous un mail au: `contact.woopsiecreations@gmail.com`
 
 > _"It's not a bug, it's a Woopsie :)"_
