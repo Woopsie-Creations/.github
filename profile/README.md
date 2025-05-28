@@ -44,13 +44,13 @@ Feel free to reach out via GitHub or email us at: `contact.woopsiecreations@gmai
 
 ---
 
-**FRENCH VERSION**
+**VERSION FRANCAISE**
 
-Bienvenue sur **Woopsie Creations** :D — un studio de développement logiciel et de jeux-vidéos, par des passionés.
+Bienvenue sur **Woopsie Creations** :D — un studio de développement logiciel et de jeux-vidéos, fait par des passionés.
 
 ## 🚀 Ce Qu'On Fait
 
-Dans Woopsie Creations, on explore une variété de projets avec créativité et curiosité technique:
+A Woopsie Creations, on explore une variété de projets avec créativité et curiosité technique:
 
 - 🕹️ **Remakes Arcade Retro**: Re-créations fun de jeux d'arcades iconiques utilisant du x86 16-bit Assembly sur DOSBox.
 - 🌍 **Simulateurs**: De la simulation de tremblements de terre à de la balistique de tank — on aime élaborer des systèmes complexes et interactifs.
@@ -68,7 +68,7 @@ Dans Woopsie Creations, on explore une variété de projets avec créativité et
 
 Explore nos répos pour voir ce que nous créons - des remakes nostalgiques à des simulateurs de pointe.
 
-> Nous croyons au **apprends en faisant** et **partage ce que nous créons**. Quelques projets sont des prototypes, mais tous on été fait avec amour.
+> Nous croyons en **l'apprentissage par la pratique** et au **partage**. Quelques projets sont des prototypes, mais tous on été fait avec amour.
 
 ## 🏮 Ce Qu'On Fait Maintenant?
 
@@ -76,12 +76,12 @@ Pour en savoir plus sur nos projets actuels, tu peux jeter un coup d'œil à [no
 
 ## 🤝 Suis nous!
 
-On adore être en contact avec d'autres créateurs, développeurs et fans de technos retros. Suis notre travail, mets une étoile à nos projets ou n'hésite pas si tu voudrais contribuer!
+On adore être en contact avec d'autres créateurs, développeurs et fans de technologies retros. Suis notre travail, mets en favoris nos projets et n'hésite pas à contribuer !
 
-Et pour en savoir plus sur les co-fondateurs, tu peux tout simplement aller voir les profils des admins de l'organisation :)
+Pour en savoir plus sur les co-fondateurs, tu peux tout simplement aller voir les profils des admins de l'organisation :)
 
 ## 📫 Contact
 
-Sois libre de nous écrire via GitHub ou envoie nous un mail au: `contact.woopsiecreations@gmail.com`
+Sois libre de nous écrire via GitHub ou envoie nous un mail à l'adresse: `contact.woopsiecreations@gmail.com`
 
 > _"It's not a bug, it's a Woopsie :)"_
