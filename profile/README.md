@@ -2,7 +2,7 @@
 
 ![ALELOUIAGREEN](https://github.com/user-attachments/assets/f590274c-ba48-4650-9089-f23b0b83d2f4)
 
-**ENGLISH VERSION**
+# ENGLISH VERSION
 
 Welcome to **Woopsie Creations** :D — a passionate indie game and software development studio.
 
@@ -44,7 +44,7 @@ Feel free to reach out via GitHub or email us at: `contact.woopsiecreations@gmai
 
 ---
 
-**VERSION FRANCAISE**
+# VERSION FRANCAISE
 
 Bienvenue sur **Woopsie Creations** :D — un studio de développement logiciel et de jeux-vidéos, fait par des passionés.
 
