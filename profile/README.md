@@ -26,9 +26,13 @@ At Woopsie Creations, we dive into a wide range of projects with creativity and 
 
 Explore our public repositories to see what's brewing — from nostalgic remakes to cutting-edge simulators.
 
-> We believe in **learning by doing** and **sharing what we build**. Some projects are prototypes, but all made with care.
+> We believe in **learning by doing** and **sharing what we build**. Some projects are prototypes, but all were made with care.
 
 ## 🏮 What Are We Currently Doing?
+
+- The official website
+- Our own game engine
+- Our first game
 
 To know more about our current projects, you can take a look at [our Trello](https://trello.com/w/woopsiecreations), each table is dedicated to a project. 
 
@@ -68,9 +72,13 @@ A Woopsie Creations, on explore une variété de projets avec créativité et cu
 
 Explore nos répos pour voir ce que nous créons - des remakes nostalgiques à des simulateurs de pointe.
 
-> Nous croyons en **l'apprentissage par la pratique** et au **partage**. Quelques projets sont des prototypes, mais tous on été fait avec amour.
+> Nous croyons en **l'apprentissage par la pratique** et au **partage**. Quelques projets sont des prototypes, mais tous ont été fait avec amour.
 
 ## 🏮 Ce Qu'On Fait Maintenant?
+
+- Le site officiel
+- Notre moteur de jeu
+- Notre premier jeu
 
 Pour en savoir plus sur nos projets actuels, tu peux jeter un coup d'œil à [notre Trello](https://trello.com/w/woopsiecreations), chaque table est dédié à un projet.
 
